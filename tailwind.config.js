@@ -7,6 +7,7 @@ module.exports = {
       notosansjp: ["Noto Sans JP", "sans-serif"],
       playfair: ["Playfair Display", "serif"],
     },
+    mode: "jit",
   },
   plugins: [],
 };
