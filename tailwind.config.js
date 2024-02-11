@@ -6,8 +6,8 @@ module.exports = {
     fontFamily: {
       notosansjp: ["Noto Sans JP", "sans-serif"],
       playfair: ["Playfair Display", "serif"],
+      bizudmincho: ["BIZ UDMincho", "serif"],
     },
-    mode: "jit",
   },
   plugins: [],
 };
